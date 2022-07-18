@@ -21,6 +21,7 @@ The kit is able to produce all the necessary energy and foods that a human need,
 As a biproduct, the kit can produce Oxygen, which will increase the oxygen amount in atmosphere.
 It is a walking tree and with each human with one kit, it will be 8 billion more trees to the nature in 2070.
 
+![The Photosysnthesis kit](https://user-images.githubusercontent.com/74417715/179593491-e2768748-e4f7-4ee3-bbbf-2fc1cd86361d.jpg)
 
 
 
